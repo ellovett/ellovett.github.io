@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-	font-family: Georgia; Times; serif;
+	font-family: Georgia;
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
@@ -12,16 +12,15 @@ h1 {
 	color: #785086;
 }
 img {
-  width: 45%;
-  height: 45%;
+  width: 47%;
+  height: 47%;
   background-image: url(../ellovett.github.io/blanaid.jpg);
   display: block;
   margin: auto;
-  image-orientation: from-image;
 }
 
 a {
-  font-family: Georgia; Times; serif;
+  font-family: Georgia;
   font-size: 20px;
   font-weight: bold;
   color: #785086;
