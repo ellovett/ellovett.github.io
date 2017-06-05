@@ -2,6 +2,9 @@ body {
   background-color: #EED3FF
 }
 
+/* had put background-color:#EED3FF and color: #785086 in body, 
+but the page came out in black and white */
+
 h1 {
   font-family: Georgia;
   font-size: 28px;
