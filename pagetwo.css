@@ -1,0 +1,21 @@
+body {
+  color: #785086
+}
+
+h1 {
+  font-family: Georgia; Times; serif;
+  font-size: 28px;
+  font-weight: bold:
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: Georgia; Times; serif;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
