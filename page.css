@@ -2,12 +2,10 @@ body {
   background-color: #EED3FF
 }
 
-div {
+div.blanaid {
+  width: 756px;
+  height: 756px;
   background: url(../ellovett.github.io/blanaid.jpg)
-}
-  
-.blanaid {
-  background-repeat: no-repeat;
   background-attatchment: fixed;
   background-position: center;
 }
