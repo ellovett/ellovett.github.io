@@ -1,9 +1,9 @@
 body {
-  background-color: #CD89E5
+  background-color: #EED3FF
 }
 
 div {
-  background-image: url(../ellovett.github.io/blanaid.png)
+  background: url(../ellovett.github.io/blanaid.png)
   background-repeat: no-repeat;
   background-attatchment: fixed;
   background-position: center;
