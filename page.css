@@ -3,18 +3,23 @@ body {
 }
 
 img {
-  width: 25%;
-  height: 25%;
+  width: 50%;
+  height: 50%;
   background-image: url(../ellovett.github.io/blanaid.jpg)
-  background-attatchment: fixed;
   background-position: center;
+  image-orientation: from-image;
 }
 
 a {
+  font-family: Georgia; Times; serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: 785086;
   text-align: center;
   display: block;
   margin: 0 auto;
 }
+
 
 
 
