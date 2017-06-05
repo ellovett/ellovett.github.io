@@ -12,6 +12,15 @@ h1 {
   color: #785086;
 }
 
+p {
+  font-family: Georgia;
+  font-size: 18px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  color: #785086;
+}
+
 a {
   font-family: Georgia;
   font-size: 20px;
