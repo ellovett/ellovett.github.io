@@ -1,11 +1,19 @@
-img.center {
-  display: block;
-  margin: 0 auto;
+body {
+  background-color: #CD89E5
 }
 
-div a {
+div {
+  background-image: url(../ellovett.github.io/blanaid.png)
+  background-repeat: no-repeat;
+  background-attatchment: fixed;
+  background-position: center;
+}
+
+a {
   text-align: center;
   display: block;
   margin: 0 auto;
 }
+
+
 
