@@ -3,7 +3,10 @@ body {
 }
 
 div {
-  background: url(../ellovett.github.io/blanaid.png)
+  background: url(../ellovett.github.io/blanaid.jpg)
+}
+  
+.blanaid {
   background-repeat: no-repeat;
   background-attatchment: fixed;
   background-position: center;
