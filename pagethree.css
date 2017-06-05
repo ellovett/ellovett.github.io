@@ -1,0 +1,23 @@
+body {
+  background-color: #EED3FF
+}
+
+h1 {
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  color: #785086;
+}
+
+a {
+  font-family: Georgia;
+  font-size: 20px;
+  font-weight: bold;
+  color: #EA5DC1;
+  text-align: center;
+  display: block
+  margin: 0 auto;
+}
